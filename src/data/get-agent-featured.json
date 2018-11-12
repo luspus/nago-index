@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "userId": 6,
+            "userNickName": "pbayer",
+            "userFirstName": "Justus",
+            "userLastName": "Beer",
+            "userPhone": "1-234-567-8910",
+            "address": {
+                "id": 4,
+                "display_name": "Freeman St, Fitzroy North, VIC 3068"
+            },
+            "avatar": null,
+            "agency": "Dog&Cat"
+        },
+        {
+            "userId": 14,
+            "userNickName": "eda.auer",
+            "userFirstName": "Audreanne",
+            "userLastName": "Smith",
+            "userPhone": "1-234-567-8910",
+            "address": {
+                "id": 3,
+                "display_name": "Freeman St, Lalor Park, NSW 2147"
+            },
+            "avatar": null,
+            "agency": "DreamWork"
+        },
+        {
+            "userId": 18,
+            "userNickName": "kiana15",
+            "userFirstName": "Etha ",
+            "userLastName": "Wolff",
+            "userPhone": "1-234-567-8910",
+            "address": {
+                "id": 4,
+                "display_name": "Freeman St, Fitzroy North, VIC 3068"
+            },
+            "avatar": null,
+            "agency": "R&Q Real Estate"
+        },
+        {
+            "userId": 18,
+            "userNickName": "kiana15",
+            "userFirstName": "Etha ",
+            "userLastName": "Wolff",
+            "userPhone": "1-234-567-8910",
+            "address": {
+                "id": 4,
+                "display_name": "Freeman St, Fitzroy North, VIC 3068"
+            },
+            "avatar": null,
+            "agency": "The Simpsons"
+        },
+        {
+            "userId": 18,
+            "userNickName": "kiana15",
+            "userFirstName": "Ivan ",
+            "userLastName": "Global",
+            "userPhone": "1-234-567-8910",
+            "address": {
+                "id": 4,
+                "display_name": "Freeman St, Fitzroy North, VIC 3068"
+            },
+            "avatar": null,
+            "agency": "R&Q Real Estate"
+        }
+    ]
+}

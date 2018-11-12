@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "property": {
+        "id": 1,
+        "address": "Chatswood",
+        "suburb": "Suburb",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "garage_size": 3,
+        "avatar": "Suburb"
+      },
+      "agent": {
+        "id": 1,
+        "nickname": "merle27",
+        "first_name": "Mateo",
+        "last_name": "Langosh",
+        "image": null,
+        "agency": "R&Q"
+      }
+    },
+    {
+      "property": {
+        "id": 2,
+        "address": "Chatswood",
+        "suburb": "Suburb",
+        "bedrooms": 3,
+        "bathrooms": 4,
+        "garage_size": 4,
+        "avatar": "Suburb"
+      },
+      "agent": {
+        "id": 1,
+        "nickname": "merle27",
+        "first_name": "Mateo",
+        "last_name": "Langosh",
+        "image": null,
+        "agency": "R&Q"
+      }
+    },
+    {
+      "property": {
+        "id": 4,
+        "address": "Chatswood",
+        "suburb": "Suburb",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "garage_size": 2,
+        "avatar": "Suburb"
+      },
+      "agent": {
+        "id": 2,
+        "nickname": "stark.jonas",
+        "first_name": "Camden",
+        "last_name": "Simonis",
+        "image": null,
+        "agency": "R&Q"
+      }
+    }
+  ]
+}
