@@ -1320,6 +1320,7 @@ section{
   // create profile
 
   &.create_profile {
+    position: relative;
     background: #eff2f6;
     padding: 6em 0;
     .container {
@@ -1982,7 +1983,7 @@ section{
               }
             }
 
-            label {
+            .label {
               display: block;
               margin-bottom: 2em;
               &.pair {
@@ -1999,6 +2000,14 @@ section{
                   max-width: 40em;
                   margin-right: 2em;
                 }
+              }
+              .name {
+                display: block;
+                font-family: @bold;
+                font-size: 1.2em;
+                padding-bottom: 1em;
+                color: #394053;
+                text-transform: uppercase;
               }
               span {
                 &.name {
@@ -2463,14 +2472,17 @@ section{
       .wrap_step {
         text-align: center;
         .next_step {
+          position: absolute;
+          bottom: -36px;
           background: #28cd6a;
           display: inline-block;
           margin: 4em auto 0;
           color: @w;
+          left: 40%;
           .br(#28cd6a);
           text-align: center;
           border-radius:3px;
-          padding: 1.5em 4em;
+          //padding: 1.5em 4em;
           cursor: pointer;
           &:hover {
             background: transparent;
@@ -2479,7 +2491,9 @@ section{
           &:active {
             box-shadow: 0px 9px 9px -10px #000000 inset;
           }
-          span {
+          button {
+            padding: 14px 35px;
+            border: none;
             color: inherit;
             text-transform: uppercase;
             font-size: 2.5em;

@@ -1,11 +1,12 @@
 import React from 'react';
-import Properties from '../../components/Properties/'
-import Agents from '../../components/Agents/'
+
+import Home from '../index/home'
+import RegistrationFirstStep from '../../components/registration/step1/registrationFirstStep'
 
 const App = () => (
     <div>
-       <Properties />
-        <Agents />
+        <RegistrationFirstStep />
+        <Home />
     </div>
 )
 

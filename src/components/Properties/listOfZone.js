@@ -1,8 +1,8 @@
 import React  from 'react'
 
-import bad from "../../img/bad.png";
-import shower from "../../img/shower.png";
-import car from "../../img/car.png";
+import bad from "../../img/bad.png"
+import shower from "../../img/shower.png"
+import car from "../../img/car.png"
 
 const ListOfZone = (props) => {
     const p = props.data
